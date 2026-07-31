@@ -8,3 +8,6 @@ Practice the unsupervised machine learning algorithms, clustering techniques.
 * Scaling features and Elbow method
 * Clustering models
 * Results and conclusions
+## Reference
+The dataset used for this project was obtained from Kaggle platform:
+Kandi Jagadish. Mall customers [Data set]. Kaggle. https://www.kaggle.com/datasets/kandij/mall-customers/data
